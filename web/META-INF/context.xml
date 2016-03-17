@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/TestApplication">
+<Resource name="jdbc/cyclingApp" auth="Container" type="javax.sql.DataSource" removeAbandoned="true" removeAbandonedTimeout="30" maxActive="100" maxIdle="30" maxWait="10000" username="root" password="admin@itspe" driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost:3306/cyclingApp"/></Context>

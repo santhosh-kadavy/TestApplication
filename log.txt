@@ -1,0 +1,4 @@
+Dec 22, 2015 11:58:07 AM LogJava main
+SEVERE: Hi this is my first log
+Dec 22, 2015 12:00:35 PM LogJava main
+SEVERE: Hi this is my first log
